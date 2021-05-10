@@ -3,7 +3,7 @@
  * Toy Dog Factory extends from Toys Factory
  * Toy Cat Factory extends from Toys Factory
  */
- interface ToyFactory {
+interface ToyFactory {
     createToy(type: string): Toy;
 }
 class ToyDogFactory implements ToyFactory {
@@ -76,7 +76,7 @@ class ToyCat implements Toy {
   * and easier to design a new type of factory
   */
 
-function main() {
+function main(): void {
     let factory: ToyFactory;
     let dog, cat: Toy;
     factory = new ToyDogFactory();
