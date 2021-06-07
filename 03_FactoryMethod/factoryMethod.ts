@@ -68,6 +68,8 @@ class ToyCat implements Toy {
     }
 }
  /**
+  * Define an interface for creating an object
+  * But let the classes that implement the interface decide which class to instantiate
   * The key point of factory method is
   * to use base factory and abstract "factory method"
   * when calling the instantiation function

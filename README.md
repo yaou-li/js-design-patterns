@@ -4,8 +4,8 @@
 * [Singleton（单例模式）](https://github.com/yaou-li/js-design-patterns/tree/main/01_Singleton)
 * [Simple Factory（简单工厂模式）](https://github.com/yaou-li/js-design-patterns/tree/main/02_SimpleFactory)
 * [Factory Method（工厂方法模式）](https://github.com/yaou-li/js-design-patterns/tree/main/03_FactoryMethod)
-* [Abstract Factory（抽象工厂模式）](https://github.com/yaou-li/js-design-patterns/tree/main/03_AbstractFactory)
-* [Builder（创建者模式）]()
+* [Abstract Factory（抽象工厂模式）](https://github.com/yaou-li/js-design-patterns/tree/main/04_AbstractFactory)
+* [Builder（创建者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/05_Builder)
 * [Prototype（原型模式）]()
 
 ## Structural Patterns (结构型模式)
