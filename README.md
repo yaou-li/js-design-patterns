@@ -6,7 +6,7 @@
 * [Factory Method（工厂方法模式）](https://github.com/yaou-li/js-design-patterns/tree/main/03_FactoryMethod)
 * [Abstract Factory（抽象工厂模式）](https://github.com/yaou-li/js-design-patterns/tree/main/04_AbstractFactory)
 * [Builder（创建者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/05_Builder)
-* [Prototype（原型模式）]()
+* [Prototype（原型模式）](https://github.com/yaou-li/js-design-patterns/tree/main/06_Prototype)
 
 ## Structural Patterns (结构型模式)
 * [Facade（外观模式）]()
