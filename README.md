@@ -9,7 +9,7 @@
 * [Prototype（原型模式）](https://github.com/yaou-li/js-design-patterns/tree/main/06_Prototype)
 
 ## Structural Patterns (结构型模式)
-* [Facade（外观模式）]()
+* [Facade（外观模式）](https://github.com/yaou-li/js-design-patterns/tree/main/07_Facade)
 * [Adapter（适配器模式）]()
 * [Proxy（代理模式）]()
 * [Composite（组合模式）]()
