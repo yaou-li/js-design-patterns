@@ -34,7 +34,7 @@ class APIHandlerProxy implements Handler {
             return {
                 Code: -1,
                 Msg: "Exceeded rate limit"
-            }
+            };
         }
     }
     RateLimit(): boolean {
@@ -55,7 +55,7 @@ class HTTPHandler implements Handler {
         return {
             Code: 0,
             Msg: "success"
-        }
+        };
     }
 }
 

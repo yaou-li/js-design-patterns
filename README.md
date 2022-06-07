@@ -12,7 +12,7 @@
 * [Facade（外观模式）](https://github.com/yaou-li/js-design-patterns/tree/main/07_Facade)
 * [Adapter（适配器模式）](https://github.com/yaou-li/js-design-patterns/tree/main/08_Adapter)
 * [Proxy（代理模式）](https://github.com/yaou-li/js-design-patterns/tree/main/09_Proxy)
-* [Composite（组合模式）]()
+* [Composite（组合模式）](https://github.com/yaou-li/js-design-patterns/tree/main/10_Composite)
 * [Flyweight（享元模式）]()
 * [Decorator（装饰模式）]()
 * [Bridge（桥模式）]()
