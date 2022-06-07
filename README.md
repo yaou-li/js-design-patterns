@@ -10,8 +10,8 @@
 
 ## Structural Patterns (结构型模式)
 * [Facade（外观模式）](https://github.com/yaou-li/js-design-patterns/tree/main/07_Facade)
-* [Adapter（适配器模式）]()
-* [Proxy（代理模式）]()
+* [Adapter（适配器模式）](https://github.com/yaou-li/js-design-patterns/tree/main/08_Adapter)
+* [Proxy（代理模式）](https://github.com/yaou-li/js-design-patterns/tree/main/09_Proxy)
 * [Composite（组合模式）]()
 * [Flyweight（享元模式）]()
 * [Decorator（装饰模式）]()
