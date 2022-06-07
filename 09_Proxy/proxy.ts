@@ -59,7 +59,7 @@ class HTTPHandler implements Handler {
     }
 }
 
-main() {
+function main() {
     const h = new APIHandlerProxy("/test");
     h.Handle({
         Body: {
