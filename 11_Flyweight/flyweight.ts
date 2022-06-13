@@ -1,5 +1,5 @@
 /**
- * flyweight design pattern lets you fit more objects into the available RAM 
+* flyweight design pattern lets you fit more objects into the available RAM 
 * by sharing common parts of state between multiple object
 * instead of storing all of the data in each object individually
 */
@@ -58,7 +58,7 @@ class BookStore {
 }
 
 
-main() {
+function main() {
     const store = new BookStore();
     store.Add("I feel good", 100, "Nice And Clean Factory", "Right next to your door")
     store.Add("I feel bad", 100, "Nice And Clean Factory", "Right next to your door")
