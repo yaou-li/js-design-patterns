@@ -15,7 +15,7 @@
 * [Composite（组合模式）](https://github.com/yaou-li/js-design-patterns/tree/main/10_Composite)
 * [Flyweight（享元模式）](https://github.com/yaou-li/js-design-patterns/tree/main/11_Flyweight)
 * [Decorator（装饰模式）](https://github.com/yaou-li/js-design-patterns/tree/main/12_Decorator)
-* [Bridge（桥模式）]()
+* [Bridge（桥模式）](https://github.com/yaou-li/js-design-patterns/tree/main/13_Bridge)
 
 ## Behavioral Patterns (行为型模式)
 
