@@ -18,8 +18,7 @@
 * [Bridge（桥模式）](https://github.com/yaou-li/js-design-patterns/tree/main/13_Bridge)
 
 ## Behavioral Patterns (行为型模式)
-
-* [Mediator（中介者模式）]()
+* [Mediator（中介者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/14_Mediator)
 * [Observer（观察者模式）]()
 * [Command（命令模式）]()
 * [Iterator（迭代器模式）]()
