@@ -19,7 +19,7 @@
 
 ## Behavioral Patterns (行为型模式)
 * [Mediator（中介者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/14_Mediator)
-* [Observer（观察者模式）]()
+* [Observer（观察者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/15_Observer)
 * [Command（命令模式）]()
 * [Iterator（迭代器模式）]()
 * [Template Method（模板方法模式）]()
