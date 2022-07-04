@@ -23,7 +23,7 @@
 * [Command（命令模式）](https://github.com/yaou-li/js-design-patterns/tree/main/16_Command)
 * [Iterator（迭代器模式）]()
 * [Template Method（模板方法模式）](https://github.com/yaou-li/js-design-patterns/tree/main/18_TemplateMethod)
-* [Strategy（策略模式）]()
+* [Strategy（策略模式）](https://github.com/yaou-li/js-design-patterns/tree/main/19_Strategy)
 * [State（状态模式）]()
 * [Memento（备忘录模式）]()
 * [Interpreter（解释器模式）]()
