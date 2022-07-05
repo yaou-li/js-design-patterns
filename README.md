@@ -24,7 +24,7 @@
 * [Iterator（迭代器模式）]()
 * [Template Method（模板方法模式）](https://github.com/yaou-li/js-design-patterns/tree/main/18_TemplateMethod)
 * [Strategy（策略模式）](https://github.com/yaou-li/js-design-patterns/tree/main/19_Strategy)
-* [State（状态模式）]()
+* [State（状态模式）](https://github.com/yaou-li/js-design-patterns/tree/main/20_State)
 * [Memento（备忘录模式）]()
 * [Interpreter（解释器模式）]()
 * [Chain of Responsibility（职责链模式）]()
