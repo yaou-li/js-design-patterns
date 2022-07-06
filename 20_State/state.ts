@@ -21,6 +21,9 @@ class PhoneButton {
 
 class Phone {
     state: PhoneState;
+    constructor() {
+        this.SetState(new StateOff(this));
+    }
     SetState(state: PhoneState) {
         this.state = state;
     }
