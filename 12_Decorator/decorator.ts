@@ -21,15 +21,27 @@ class DataService {
     }
 
     GetEmail(name: string): string {
-        return this.userInfo.get(name).email;
+        const user = this.userInfo.get(name);
+        if (user) {
+            return user.email;
+        }
+        return "";
     }
 
     GetPhone(name: string): string {
-        return this.userInfo.get(name).phone;
+        const user = this.userInfo.get(name);
+        if (user) {
+            return user.phone;
+        }
+        return "";
     }
 
     GetWechat(name: string): string {
-        return this.userInfo.get(name).wechat;
+        const user = this.userInfo.get(name);
+        if (user) {
+            return user.wechat;
+        }
+        return "";
     }
 }
 
@@ -40,11 +52,11 @@ interface INotifier {
 
 
 class BaseNotifier implements INotifier {
-    name: string;
+    name?: string;
     wrapped: INotifier;
     dataService: DataService;
     
-    constructor(wrapped?: INotifier, name?: string) {
+    constructor(wrapped?: INotifier | null, name?: string) {
         if (wrapped) {
             this.wrapped = wrapped;
         } else {
@@ -65,7 +77,7 @@ class BaseNotifier implements INotifier {
 }
 
 class EmailNotifier extends BaseNotifier {
-    constructor(wrapped?: INotifier, name?: string) {
+    constructor(wrapped?: INotifier | null, name?: string) {
         super(wrapped, name);
     }
 
