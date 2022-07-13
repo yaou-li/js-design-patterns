@@ -28,4 +28,4 @@
 * [Memento（备忘录模式）](https://github.com/yaou-li/js-design-patterns/tree/main/21_Memento)
 * [Interpreter（解释器模式）]()
 * [Chain of Responsibility（职责链模式）](https://github.com/yaou-li/js-design-patterns/tree/main/23_ChainOfResponsibility)
-* [Visitor（访问者模式）]()
+* [Visitor（访问者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/24_Visitor)
