@@ -26,6 +26,6 @@
 * [Strategy（策略模式）](https://github.com/yaou-li/js-design-patterns/tree/main/19_Strategy)
 * [State（状态模式）](https://github.com/yaou-li/js-design-patterns/tree/main/20_State)
 * [Memento（备忘录模式）](https://github.com/yaou-li/js-design-patterns/tree/main/21_Memento)
-* [Interpreter（解释器模式）]()
+* [Interpreter（解释器模式）](https://github.com/yaou-li/js-design-patterns/tree/main/22_Interpreter)
 * [Chain of Responsibility（职责链模式）](https://github.com/yaou-li/js-design-patterns/tree/main/23_ChainOfResponsibility)
 * [Visitor（访问者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/24_Visitor)
