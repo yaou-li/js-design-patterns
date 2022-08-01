@@ -21,7 +21,7 @@
 * [Mediator（中介者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/14_Mediator)
 * [Observer（观察者模式）](https://github.com/yaou-li/js-design-patterns/tree/main/15_Observer)
 * [Command（命令模式）](https://github.com/yaou-li/js-design-patterns/tree/main/16_Command)
-* [Iterator（迭代器模式）]()
+* [Iterator（迭代器模式）](https://github.com/yaou-li/js-design-patterns/tree/main/17_Iterator)
 * [Template Method（模板方法模式）](https://github.com/yaou-li/js-design-patterns/tree/main/18_TemplateMethod)
 * [Strategy（策略模式）](https://github.com/yaou-li/js-design-patterns/tree/main/19_Strategy)
 * [State（状态模式）](https://github.com/yaou-li/js-design-patterns/tree/main/20_State)
